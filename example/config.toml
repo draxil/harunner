@@ -1,0 +1,4 @@
+
+[entity_runners."input_button.exp1"]
+command = "notify-send"
+args = ["hello"]
